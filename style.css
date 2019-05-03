@@ -1,0 +1,22 @@
+body {
+	display: grid;
+	flex-wrap: wrap;
+	justify-content: center;
+	background-image: url(pic/LandingStock_image_07.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+a:link,a:hover,a:visited,a:active{
+	color:white;
+	text-decoration: none;
+}
+
+.jumbotron-fluid {
+	background-color: transparent;
+	justify-content: center;
+}
+
+.btn-primary{
+	justify-content: center;	
+}
